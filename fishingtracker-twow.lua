@@ -334,7 +334,7 @@ local function CreateLureUI()
 
   lureUI.title = lureUI:CreateFontString(nil, "OVERLAY", "GameFontHighlight")
   lureUI.title:SetPoint("TOPLEFT", lureUI.icon, "TOPRIGHT", 8, -1)
-  lureUI.title:SetText("TatoFishing Lure")
+  lureUI.title:SetText("Fishing Lure")
 
   lureUI.status = lureUI:CreateFontString(nil, "OVERLAY", "GameFontHighlightSmall")
   lureUI.status:SetPoint("TOPLEFT", lureUI.title, "BOTTOMLEFT", 0, -4)
