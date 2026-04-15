@@ -1,4 +1,4 @@
-local addonName = "TatoFishing"
+local addonName = "fishingtracker-twow"
 
 local frame = CreateFrame("Frame", "TatoFishingFrame")
 frame:SetScript("OnEvent", function()

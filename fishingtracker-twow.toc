@@ -1,8 +1,8 @@
 ## Interface: 11200
-## Title: TatoFishing
+## Title: fishingtracker-twow
 ## Notes: Lightweight fishing lure helper UI
 ## Author: Local Build
 ## Version: 2.0.0
 ## SavedVariables: TatoFishingDB
 
-TatoFishing.lua
+fishingtracker-twow.lua
