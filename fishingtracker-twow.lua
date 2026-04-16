@@ -31,7 +31,7 @@ local lureDataByItemID = {
   [6529] = { bonus = 25, name = "Shiny Bauble" },
   [6530] = { bonus = 50, name = "Nightcrawlers" },
   [6532] = { bonus = 75, name = "Bright Baubles" },
-  [6811] = { bonus = 100, name = "Aquadynamic Fish Attractor" },
+  [6533] = { bonus = 100, name = "Aquadynamic Fish Attractor" },
   [7307] = { bonus = 100, name = "Flesh Eating Worm" },
   [34861] = { bonus = 100, name = "Sharpened Fish Hook" },
 }
